@@ -1,2 +1,2 @@
-Data structures and algorithims quiz one
-projects found in main.c files respectively
+SCT211-0017/2023
+Agutu Joshua Ochieng
